@@ -1,26 +1,26 @@
-# NextJs Boilerplate
+# React NextJs Boilerplate
 
 A TypeScript starter for Next.js that includes all you need to build amazing projects 🔥
 
-- ⚛️ [React](https://pt-br.reactjs.org/)
-- 💙 [TypeScript](https://www.typescriptlang.org/)
-- 🖤 [NextJS](https://nextjs.org/)
-- ✨ [Styled Components](https://styled-components.com/)
-- 🎯 [Jest](https://jestjs.io/)
-- 🏹 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- 📚 [Storybook](https://storybook.js.org/)
-- 📏 [Eslint](https://eslint.org/)
-- 💖 [Prettier](https://prettier.io/)
-- 🐕 [Husky](https://github.com/typicode/husky)
-- 🚫 [Lint-staged](https://www.npmjs.com/package/lint-staged)
-- 📄 [Git-cz](https://www.npmjs.com/package/git-cz)
+⚛️ [React](https://pt-br.reactjs.org/)
+💙 [TypeScript](https://www.typescriptlang.org/)
+🖤 [NextJS](https://nextjs.org/)
+✨ [Styled Components](https://styled-components.com/)
+🎯 [Jest](https://jestjs.io/)
+🏹 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+📚 [Storybook](https://storybook.js.org/)
+📏 [Eslint](https://eslint.org/)
+💖 [Prettier](https://prettier.io/)
+🐕 [Husky](https://github.com/typicode/husky)
+🚫 [Lint-staged](https://www.npmjs.com/package/lint-staged)
+📄 [Git-cz](https://www.npmjs.com/package/git-cz)
 
 ## 🚀 Getting started
 
 The best way to start with this template is using `create-next-app`.
 
 ```
-npx create-next-app ts-next -e https://github.com/jpedroschmitz/typescript-nextjs-starter
+npx create-next-app ts-next -e https://github.com/KalleoPinheiro/react-nextjs-boilerplate
 ```
 
 If you prefer you can clone this repository and run the following commands inside the project folder:
@@ -42,6 +42,8 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
+- `commit`: runs git-cz to commit your changes
+- `clean`: clears the .next, node_modules directory and reinstall project dependecies
 
 ## 🤝 Contributing
 
