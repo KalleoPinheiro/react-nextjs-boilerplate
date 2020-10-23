@@ -1,0 +1,7 @@
+{
+  "src/**/*": [
+    "eslint . --fix",
+    "prettier --write",
+    "yarn test --findRelatedTests --bail"
+  ]
+}
