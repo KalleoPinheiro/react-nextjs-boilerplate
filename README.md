@@ -2,18 +2,18 @@
 
 A TypeScript starter for Next.js that includes all you need to build amazing projects 🔥
 
-⚛️ [React](https://pt-br.reactjs.org/)
-💙 [TypeScript](https://www.typescriptlang.org/)
-🖤 [NextJS](https://nextjs.org/)
-✨ [Styled Components](https://styled-components.com/)
-🎯 [Jest](https://jestjs.io/)
-🏹 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-📚 [Storybook](https://storybook.js.org/)
-📏 [Eslint](https://eslint.org/)
-💖 [Prettier](https://prettier.io/)
-🐕 [Husky](https://github.com/typicode/husky)
-🚫 [Lint-staged](https://www.npmjs.com/package/lint-staged)
-📄 [Git-cz](https://www.npmjs.com/package/git-cz)
+- ⚛️ [React](https://pt-br.reactjs.org/)
+- 💙 [TypeScript](https://www.typescriptlang.org/)
+- 🖤 [NextJS](https://nextjs.org/)
+- ✨ [Styled Components](https://styled-components.com/)
+- 🎯 [Jest](https://jestjs.io/)
+- 🏹 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+- 📚 [Storybook](https://storybook.js.org/)
+- 📏 [Eslint](https://eslint.org/)
+- 💖 [Prettier](https://prettier.io/)
+- 🐕 [Husky](https://github.com/typicode/husky)
+- 🚫 [Lint-staged](https://www.npmjs.com/package/lint-staged)
+- 📄 [Git-cz](https://www.npmjs.com/package/git-cz)
 
 ## 🚀 Getting started
 
